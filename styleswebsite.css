@@ -1,0 +1,32 @@
+/* Matthew Schneider */
+
+/* Most of the colors/margins/style designs 
+I have replicated from  Jal Iranis' website 
+https://www.jalirani.com/                */
+
+body {
+    background-color: #101214;
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    color: white;
+    font-size: 1.4rem;
+}
+.Name {
+    padding-top: 40vh;
+    text-align: center;
+}
+.Name h1{
+    font-size: 1.7rem;
+    margin-bottom: 10px;
+}
+.Name p{
+    font-size: 1.1rem;
+    padding-bottom: 10px;
+    margin:0;
+}
+.Name a{
+    font-size: 1.5rem;
+    padding: 10px;
+}
