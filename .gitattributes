@@ -1,2 +1,64 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!--Matthew Schneider-->
+
+
+    <!--Requirements:
+    -The site must be hosted on github pages and have a URL that can be
+    visited
+    -->
+
+<html lang="en">
+
+<head>
+    <title>Matthew Schneider</title>
+
+
+    <link rel="stylesheet" href="styleswebsite.css">
+</head>
+
+<body>
+    <div class="Name">
+
+    <h1>
+        Matthew Schneider
+    </h1>
+    <p>
+        Edgewood, MD
+    
+        <br>
+        <a href="https://www.linkedin.com/in/matthew-schneider-873137223">LinkedIn</a>
+        <a href="https://github.com/FreezerLord">GitHub</a>
+        <a href="mailto:matthewschneider1234567890@gmail.com">Email</a> 
+    </p>
+
+    </div>
+    <h1>
+        About Me:
+    </h1>
+        <p>Currently searching for internships (preferrably as a software engineer) for the summer of 2023.<br>
+        I am a junior undergraduate student at Towson Univeristy with a 3.50 out of 4.00 GPA (Deans List!).<br> 
+        My expected graduation date is June 2024.<br>
+        My previous work experience includes 3 years of being an assistant manager in the retail industry. <br>
+        </p>
+
+    <h3>
+        <a href = "file:///C:/Resumes/MSResume3.5.pdf"> Resume </a>
+    </h3>
+    <h1>
+        Education
+    </h1>
+
+    <h1>
+        Work Experience
+    </h1>
+
+    <h1>
+        Projects
+    </h1>
+
+
+</body>
+
+</html>
