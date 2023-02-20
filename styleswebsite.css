@@ -1,8 +1,8 @@
 /* Matthew Schneider */
 
 /* Most of the colors/margins/style designs 
-I have replicated from  Jal Iranis' website 
-https://www.jalirani.com/                */
+I have replicated from  Jal Iranis' (my professors')
+website: https://www.jalirani.com/                */
 
 body {
     background-color: #101214;
@@ -14,7 +14,7 @@ h1 {
     font-size: 1.4rem;
 }
 .Name {
-    padding-top: 40vh;
+    padding-top: 10vh;
     text-align: center;
 }
 .Name h1{
@@ -29,4 +29,26 @@ h1 {
 .Name a{
     font-size: 1.5rem;
     padding: 10px;
+}
+.Experience {
+    padding-left: 10%;
+}
+.ExperienceLocation{
+    padding-left: 5%;
+}
+.Education p{
+    padding-left: 5%;
+}
+.AboutMe p{
+    padding-left: 5%;
+}
+
+:hover{
+    color:darkblue;
+}
+:active{
+    color:fuchsia;
+}
+a{
+    color:lightblue;
 }
